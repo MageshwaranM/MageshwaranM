@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MageshwaranM
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python Projects
+- 👀 I’m interested in ... Website Development
+- 🌱 I’m currently learning ... Java/Spring
+- 💞️ I’m looking to collaborate on ... Web Developement Projects.
 - 📫 How to reach me ... magesh1698@yahoo.com
 
 <!---
