@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MageshwaranM
-- 👀 I’m interested in ... Website Development
-- 🌱 I’m currently learning ... Java/Spring
+- 👀 I’m Backend Dev... Specialized in SpringBoot API development.
+- 🌱 I’m currently learning ... Go API development.
 - 💞️ I’m looking to collaborate on ... Web Developement Projects.
 - 📫 How to reach me ... magesh1698@yahoo.com
 
